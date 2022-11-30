@@ -9,4 +9,4 @@ class DefaultConfig:
 
     PORT = 3978
     APP_ID = os.environ.get("MicrosoftAppId", "aa50a6bb-a6c1-48e5-8f68-ed925e13c538")
-    APP_PASSWORD = os.environ.get("MicrosoftAppPassword", "Bi08Q~9PLNObF2EOWgdWtqXunrsMLnopeUpAqcnd")
+    APP_PASSWORD = os.environ.get("MicrosoftAppPassword", "n.H8Q~tYBXmFLl9mEjbJHjFloxpDbeYv56WFEccZ")
